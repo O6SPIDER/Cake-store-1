@@ -15,13 +15,13 @@ export const AboutSection: React.FC<{ selectedType: string | null; setSelectedTy
           <h2 className="text-4xl font-serif text-black mb-4">Our Story 🍰</h2>
           <p className="text-lg text-black leading-relaxed mb-8 font-sans">
             <span className="text-black font-mono font-semibold">Ɛvivi Bakery </span>is a family-owned bakery where we believe every celebration deserves
-             a centerpiece. We specialize in custom cakes, baked with passion and crafted from the
+            a centerpiece. We specialize in custom cakes, baked with passion and crafted from the
               finest locally-sourced ingredients. Our goal is to create not just a cake, but a
               memorable experience that brings people together.
               From elegant wedding tiers to whimsical birthday creations, we work closely with
-             you to design a cake that perfectly captures the spirit of your event and reflects your personal
+            you to design a cake that perfectly captures the spirit of your event and reflects your personal
                 story. We take pride in our artistry, ensuring each detail is meticulously handcrafted, because for
-           us, every slice is a promise of a beautiful memory.
+          us, every slice is a promise of a beautiful memory.
           </p>
 
           <div className="mt-8">
