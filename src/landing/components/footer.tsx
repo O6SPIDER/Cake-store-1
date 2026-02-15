@@ -140,7 +140,7 @@ export const FooterSection: React.FC = () => {
 
       {/* Bottom Note */}
       <div className="border-t border-white/30 mt-16 pt-8 text-center text-rose-100 text-sm">
-        &copy; {new Date().getFullYear()} <span className="font-bold">Ɛvivi Bakery</span> - All rights reserved.
+        &copy; {new Date().getFullYear()} <span className="font-bold">Ɛvivi Bakery</span> - All rights reserved. | Built by <a href="https://hexratech.vercel.app" target="_blank" rel="noopener noreferrer" className="font-bold hover:text-white transition-colors duration-200">Hexratech</a>
       </div>
     </footer>
   );
